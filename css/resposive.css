@@ -1,0 +1,159 @@
+
+
+
+
+
+/* none -Extrasmall- */
+
+@media (min-width:320px) and (max-width:575px) {
+
+    /* **************** nav start ****************** */
+
+    #navcustom ul li a {
+        padding: 12px 0px;
+        text-align: right;
+    }
+
+    /* **************** nav end ****************** */
+
+
+    #banner .bannerbox p {
+        font-size: 14px;
+    }
+
+    #banner .bannerbox h1 {
+        font-size: 30px;
+        letter-spacing: 8px;
+    }
+
+
+    .titletext {
+        font-size: 30px;
+    }
+
+    #about .abouttitle p {
+        font-size: 14px;
+    }
+
+    #about .abouttitle p span {
+        font-size: 16px;
+    }
+
+    .aboutbox img {
+        width: 25px;
+        height: 25px;
+    }
+
+    .aboutbox .aboutheadline {
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+
+    .aboutbox .abouttextbox {
+        font-size: 14px;
+    }
+
+    #about {
+        margin-bottom: 420px;
+    }
+    .aboutbox{
+        margin-bottom: 20px;
+    }
+
+    #service {
+        height: 1100px;
+    }
+
+
+    #work{
+        height: 1300px;
+    }
+
+}
+
+/* sm */
+
+@media (min-width:576px) and (max-width:767px) {
+
+    /* **************** nav start ****************** */
+    .CustomNav {
+        background-color: #000000;
+    }
+
+    /* **************** nav end ****************** */
+
+    #banner .bannerbox p {
+        font-size: 18px;
+    }
+
+    #banner .bannerbox h1 {
+        font-size: 38px;
+        letter-spacing: 30px;
+    }
+
+
+    .titletext {
+        font-size: 36px;
+    }
+
+    #about .abouttitle p span {
+        font-size: 18px;
+    }
+
+
+    #about {
+        margin-bottom: 560px;
+    }
+
+    #service {
+        height: 1100px;
+    }
+
+    #work{
+        height: 1300px;
+    }
+    
+
+}
+
+/* md */
+
+@media (min-width:768px) and (max-width:991px) {
+
+    #about {
+        margin-bottom: 160px;
+    }
+
+
+    #service {
+        height: 1150px;
+    }
+
+}
+
+/* lg */
+
+@media (min-width:992px) and (max-width:1199px) {
+
+    #about {
+        margin-bottom: 100px;
+    }
+
+    #service {
+        height: 1150px;
+    }
+    
+}
+
+/* xl */
+
+@media (min-width:1200px) and (max-width:1399px) {
+
+    #about {
+        margin-bottom: 100px;
+    }
+    
+}
+
+
